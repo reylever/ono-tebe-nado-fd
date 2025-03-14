@@ -199,7 +199,7 @@
 
 .about {
   display: flex;
-  padding: 0 24px 155px;
+  padding: 0 24px 157px;
 }
 
 .about__column-logo {
@@ -250,7 +250,7 @@
   font-style: normal;
   font-size: 18px;
   line-height: 24.3px;
-  text-underline-offset: 4px;
+  text-underline-offset: 3px;
 }
 
 .footer__menu-list {
@@ -261,7 +261,7 @@
 .footer__menu-link {
   font-size: 18px;
   text-decoration: underline;
-  text-underline-offset: 5px;
+  text-underline-offset: 3px;
 }
 
 .footer__menu-link_active {
